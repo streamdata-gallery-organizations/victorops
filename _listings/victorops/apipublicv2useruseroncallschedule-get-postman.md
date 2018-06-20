@@ -2011,30 +2011,4 @@
                   "disabled": false
                 }
               ],
-              "variable": [
-                {
-                  "id": "user",
-                  "value": "{}",
-                  "type": "string"
-                }
-              ]
-            },
-            "method": "GET",
-            "body": {
-              "mode": "raw"
-            },
-            "description": "Get the on-call schedule for a user for all teams the user is on, including on-call overrides.\n\nThis API may be called a maximum of 15 times per minute."
-          },
-          "response": [
-            {
-              "status": "OK",
-              "code": 200,
-              "name": "Response_200",
-              "id": "7eef88c6-b4fc-4279-be3c-07692fbfa08d"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+   
