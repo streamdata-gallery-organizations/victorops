@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: VictorOps
 x-complete: 1
@@ -1365,4 +1364,3 @@ paths:
       - Api-reporting
       - V2
       - Incidents
----
